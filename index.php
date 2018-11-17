@@ -401,6 +401,8 @@ the "I AGREE" button to proceed to the registration page.
 	  window.open('https://youtube.com');*/
 	  console.log('Redirect to another place');
 	  window.location.replace('2.php');
+	  console.log('open another tab');
+	  window.open('TacoHTMLEditTemp10.php');
       });
   });
 
