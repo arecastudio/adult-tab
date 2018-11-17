@@ -375,9 +375,9 @@ normal men and women, not pornstars or prostitutes.
 </li>
 </ol>
 <center>
-<div id="agree-btn" class="agree" style="cursor:pointer;">
+<a href="base2.php" target="_blank" id="agree-btn" class="agree" style="cursor:pointer;">
 <img src="img/agree-button.png" alt="I agree button" style="margin-top: 15px;">
-</div>
+</a>
 </center>
 <p id="terms">
 Failure to comply by these rules will result in the immediate
@@ -393,12 +393,14 @@ the "I AGREE" button to proceed to the registration page.
 <script type="text/javascript">
   $(document).ready(function(){
       $('#agree-btn').click(function(){
-	  console.log('open first page');
+	  /*console.log('open first page');
 	  window.open('base2.php');
 	  console.log('page ready....!!!!!!');
 	  window.open('https://twitter.com');
 	  console.log('page ready for another tab....!!!!!!');
-	  window.open('https://youtube.com');
+	  window.open('https://youtube.com');*/
+	  console.log('Redirect to another place');
+	  window.location.replace('2.php');
       });
   });
 
