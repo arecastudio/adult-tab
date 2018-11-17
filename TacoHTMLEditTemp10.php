@@ -465,8 +465,8 @@ module.exports=extend;var hasOwnProperty=Object.prototype.hasOwnProperty;functio
 <meta name="viewport" content="user-scalable=false, initial-scale=1.0, maximum-scale=1.0">
 <meta content="" name="keywords">
 <meta content="" name="description">
-<link rel="stylesheet" type="text/css" href="./TacoHTMLEditTemp10_files/main.css">
-<script type="text/javascript" src="./TacoHTMLEditTemp10_files/jquery.js"></script> <script type="text/javascript" src="./TacoHTMLEditTemp10_files/html5.js"></script> <script type="text/javascript" src="./TacoHTMLEditTemp10_files/steps.js"></script>
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<script type="text/javascript" src="js/jquery.js"></script> <script type="text/javascript" src="js/html5.js"></script> <script type="text/javascript" src="js/steps2.js"></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/favblack/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favblack/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="192x192" href="/favblack/android-chrome-192x192.png">

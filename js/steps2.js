@@ -1,0 +1,5 @@
+$(function(){$('.entry').on('click',function(){$('#popup-wrapper').hide();})
+$('.yes:eq(0), .no:eq(0)').on('click',function(){$('#q1').hide();$('#q2').fadeIn(500);})
+$('.yes:eq(1), .no:eq(1)').on('click',function(){$('#q2').hide();$('#q3').fadeIn(500);})
+$('.yes:eq(2), .no:eq(2)').on('click',function(){$('#q3').hide();$('#q4').fadeIn(500);})
+$('.yes:eq(3), .no:eq(3)').on('click',function(){$('#q4').hide();$('#q5').fadeIn(500);})})

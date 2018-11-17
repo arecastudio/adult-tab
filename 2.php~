@@ -15,9 +15,9 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
 <link href="" rel="shortcut icon" type="image/x-icon" />
 <meta content="" name="keywords">
 <meta content="" name="description">
-<link rel="stylesheet" type="text/css" href="css/main0f48-1428409027.css">
-<script type="text/javascript" src="js/jquery.min0f48-1428409027.js"></script>
-<script type="text/javascript" src="js/showHide0f48-1428409027.js"></script>
+<link rel="stylesheet" type="text/css" href="intcdn.abgeobalancer.com/landings/17376/css/main0f48-1428409027.css">
+<script type="text/javascript" src="ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min0f48-1428409027.js"></script>
+<script type="text/javascript" src="intcdn.abgeobalancer.com/landings/17376/js/showHide0f48-1428409027.js"></script>
 <script type="text/javascript">
 var ssa = 'b1e7375d582de0fc';
 var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'pixel.sitescout.com/iap/' + ssa;
@@ -73,7 +73,7 @@ new Image().src=ssaUrl;
 <div id="container" align="left">
 <div id="q00" class="toggleDiv" style="display: block;" align="center">
 <div id="top" align="center"><span class="h1">This Is <b>NOT</b> A Dating Site!</span> </div>
-<div id="box" align="center"> <img src="images/16.gif" width="60%" alt="intro image" id="intro-image" style="border-radius:10px">
+<div id="box" align="center"> <img src="intcdn.abgeobalancer.com/landings/17376/images/16.gif" width="60%" alt="intro image" id="intro-image" style="border-radius:10px">
 <p> <span style="color:#97b8fd"> <b>WARNING!</b> </span> You will see nude photos. Please be discreet. </p><pre><a class="show_hide btnyes" href="javascript:void(0)" rel="#q0">OK</a></pre> </div>
 </div>
 <div id="q0" class="toggleDiv" style="display: hide;" align="left">
