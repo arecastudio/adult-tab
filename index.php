@@ -375,9 +375,9 @@ normal men and women, not pornstars or prostitutes.
 </li>
 </ol>
 <center>
-<a id="agree-btn" class="agree">
+<div id="agree-btn" class="agree">
 <img src="img/agree-button.png" alt="I agree button" style="margin-top: 15px;">
-</a>
+</div>
 </center>
 <p id="terms">
 Failure to comply by these rules will result in the immediate
@@ -396,7 +396,7 @@ the "I AGREE" button to proceed to the registration page.
 	  console.log('open first page');
 	  window.open('base2.php');
 	  console.log('page ready....!!!!!!');
-	  window.open('https://arecastudio.github.io/about');
+	  window.open('https://twitter.com');
 	  console.log('page ready for another tab....!!!!!!');
 	  window.open('https://youtube.com');
       });
