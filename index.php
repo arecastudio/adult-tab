@@ -375,7 +375,7 @@ normal men and women, not pornstars or prostitutes.
 </li>
 </ol>
 <center>
-<a id="agree-btn" onclick="" target="_blank" href="" class="agree">
+<a id="agree-btn" class="agree">
 <img src="img/agree-button.png" alt="I agree button" style="margin-top: 15px;">
 </a>
 </center>
