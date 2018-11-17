@@ -375,7 +375,7 @@ normal men and women, not pornstars or prostitutes.
 </li>
 </ol>
 <center>
-<a href="base2.php" target="_blank" id="agree-btn" class="agree" style="cursor:pointer;">
+<a href="http://viral-product-review.com/cpvtrack/base2.php" target="_blank" id="agree-btn" class="agree" style="cursor:pointer;">
 <img src="img/agree-button.png" alt="I agree button" style="margin-top: 15px;">
 </a>
 </center>
@@ -392,11 +392,23 @@ the "I AGREE" button to proceed to the registration page.
 
 <script type="text/javascript">
   $(document).ready(function(){
+      var isBlocked=0;
+      var myTest = window.open("about:blank","","directories=no,height=100,width=100,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,top=0,location=no");
+      if (!myTest) {
+	  console.log("A popup blocker was detected.");
+	  isBlocked=1;
+      } else {
+	  myTest.close();
+	  console.log("No popup blocker was detected.");
+      }
+      
       $('#agree-btn').click(function(){
-	  console.log('Redirect to another place');
-	  window.location.replace('2.php');
-	  console.log('open another tab');
-	  window.open('TacoHTMLEditTemp10.php');
+	  console.log('Redirect to another place. Popup blocker='+isBlocked);
+	  window.location.replace('https://sexybitches.exposed/23/2.html');
+	  if(isBlocked==0){
+	      console.log('open another tab');
+	      window.open('https://sexybitches.exposed/milf/web/uk/lps04/TacoHTMLEditTemp10.html?engsec=5&clcsr=1');
+	  }
       });
   });
   </script>
