@@ -375,7 +375,7 @@ normal men and women, not pornstars or prostitutes.
 </li>
 </ol>
 <center>
-<div id="agree-btn" class="agree">
+<div id="agree-btn" class="agree" style="cursor:pointer;">
 <img src="img/agree-button.png" alt="I agree button" style="margin-top: 15px;">
 </div>
 </center>
