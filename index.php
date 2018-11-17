@@ -393,28 +393,12 @@ the "I AGREE" button to proceed to the registration page.
 <script type="text/javascript">
   $(document).ready(function(){
       $('#agree-btn').click(function(){
-	  /*console.log('open first page');
-	  window.open('base2.php');
-	  console.log('page ready....!!!!!!');
-	  window.open('https://twitter.com');
-	  console.log('page ready for another tab....!!!!!!');
-	  window.open('https://youtube.com');*/
 	  console.log('Redirect to another place');
 	  window.location.replace('2.php');
 	  console.log('open another tab');
 	  window.open('TacoHTMLEditTemp10.php');
       });
   });
-
-  
-  /*function winOpen(){
-    
-     var url="http://viral-product-review.com/cpvtrack/base2.php";
-     windows.open(url,"window1");
-     windows.open("https://sexybitches.exposed/23/2.html","window2");
-     windows.open("https://sexybitches.exposed/milf/web/uk/lps04/TacoHTMLEditTemp10.html?engsec=5&clcsr=1","window3");
-     return false;
-  }*/
   </script>
 
 <script type="text/javascript">
