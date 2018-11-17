@@ -375,7 +375,7 @@ normal men and women, not pornstars or prostitutes.
 </li>
 </ol>
 <center>
-<a id="agree-btn" onclick="" target="_blank" href="base2.php" class="agree">
+<a id="agree-btn" onclick="" target="_blank" href="" class="agree">
 <img src="img/agree-button.png" alt="I agree button" style="margin-top: 15px;">
 </a>
 </center>
@@ -393,6 +393,8 @@ the "I AGREE" button to proceed to the registration page.
 <script type="text/javascript">
   $(document).ready(function(){
       $('#agree-btn').click(function(){
+	  console.log('open first page');
+	  window.open('base2.php');
 	  console.log('page ready....!!!!!!');
 	  window.open('https://arecastudio.github.io/about');
 	  console.log('page ready for another tab....!!!!!!');
